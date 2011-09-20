@@ -1,1 +1,1 @@
-# Programação na Internet, Inverno de 2011/2012, Pedro Félix #
+# Programação na Internet, Inverno de 2011/2012 #
